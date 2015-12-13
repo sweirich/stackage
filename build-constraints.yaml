@@ -1730,6 +1730,10 @@ packages:
         - tz
         - tzdata
 
+    "Stephanie Weirich <sweirich@cis.upenn.edu>":
+        - RepLib
+        - Unbound
+
     "Stackage upper bounds":
         # https://github.com/fpco/stackage/issues/537
         - zlib < 0.6
